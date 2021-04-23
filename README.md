@@ -1,0 +1,5 @@
+Hey,  I'm Carter. I am a huge fan of space and everything space related! I also enjoy tinkering with my custom built computer in my free time along with working on various person projects such as a smart home controller that serves as my interface to manage everything from my lights, tv, computer and my car. I also have created websites for both myself and businesses like WE Capital Advisors in Weddington, North Carolina.  I am currently a student at Clemson University studying for my B.S. in Computer Information Systems with minors in both Cybersecurity and Management. I have more than 5 years experience in project and people management,  through my time in the U.S. Air Force and SpaceX. If you would like to learn more about me or take a look at some of my projects, feel free to send me an email or message through LinkedIn or see my projects at Github. 
+<!---
+brewea/brewea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
